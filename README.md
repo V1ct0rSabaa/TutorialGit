@@ -1,4 +1,5 @@
-aprendendo a mexer no github e em git
+aprendendo a mexer no github e em git no video do canal "Code by Duda"
+link do video: https://youtu.be/6arOMdYC9Oc
 
 
 comandos de git CLI:
